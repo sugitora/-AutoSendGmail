@@ -1,0 +1,19 @@
+# 環境変数ファイル
+.env
+
+# ノードモジュールとDS_Store
+/node_modules/
+.DS_Store
+
+# Pythonキャッシュ
+__pycache__/
+
+# 特定のPythonファイル、Jupyterノートブック、CSVファイルを無視
+Mailer_.ipynb
+gmail_send_.py
+mailer.py
+mailer20240113.py
+my_gmail_account.py
+20240113_Data.csv
+test.csv
+test01.csv
