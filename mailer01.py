@@ -40,7 +40,7 @@ def create_mail_body(company, title, full_name):
     {title}
     {full_name}様
 
-    お世話になっております。C-mindの柿です。
+    お世話になっております。
     こちらのメールはPythonによるGmailのテスト送信になります。
 
     よろしくお願いいたします。
