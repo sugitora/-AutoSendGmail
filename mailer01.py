@@ -46,7 +46,7 @@ def create_mail_body(company, title, full_name):
     よろしくお願いいたします。
 
     -----------------------
-    パイソン 太郎
+    Test 太郎
     株式会社Test
     Engineer
     Email: {os.getenv('EMAIL')}
